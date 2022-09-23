@@ -6,8 +6,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p>Hello there!</p>
+        <p>General Kenobi!!!</p>
         <p>
-          Fuck Me Sideways! Seriously.
+          Fuck Me Sideways!
+        </p>
+        <p>
+        Seriously. 
         </p>
         <a
           className="App-link"
