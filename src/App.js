@@ -12,7 +12,7 @@ function App() {
           Fuck Me Sideways!
         </p>
         <p>
-        Seriously. 
+        Seriously? 
         </p>
         <a
           className="App-link"
